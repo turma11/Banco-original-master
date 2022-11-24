@@ -7,7 +7,7 @@ Background:
  And selecionar o botao abrir conta
 
   @pf
-  Scenario Outline: Abertura de conta pessoa Fisica
+  Scenario Outline: teste
 
  And selecionar o botao abrir conta para voce 
  #When preencher o formulario de abertura de conta

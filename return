@@ -1,0 +1,28 @@
+warning: in the working copy of 'src/test/resources/Feature/AberturaConta.feature', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'target/test-classes/Feature/AberturaConta.feature', LF will be replaced by CRLF the next time Git touches it
+[1mdiff --git a/src/test/resources/Feature/AberturaConta.feature b/src/test/resources/Feature/AberturaConta.feature[m
+[1mindex 3630663..396145b 100644[m
+[1m--- a/src/test/resources/Feature/AberturaConta.feature[m
+[1m+++ b/src/test/resources/Feature/AberturaConta.feature[m
+[36m@@ -7,7 +7,7 @@[m [mBackground:[m
+  And selecionar o botao abrir conta[m
+ [m
+   @pf[m
+[31m-  Scenario Outline: Abertura de conta pessoa fisica[m
+[32m+[m[32m  Scenario Outline: Abertura de conta pessoa Fisica[m
+ [m
+  And selecionar o botao abrir conta para voce [m
+  #When preencher o formulario de abertura de conta[m
+[1mdiff --git a/target/test-classes/Feature/AberturaConta.feature b/target/test-classes/Feature/AberturaConta.feature[m
+[1mindex 3630663..396145b 100644[m
+[1m--- a/target/test-classes/Feature/AberturaConta.feature[m
+[1m+++ b/target/test-classes/Feature/AberturaConta.feature[m
+[36m@@ -7,7 +7,7 @@[m [mBackground:[m
+  And selecionar o botao abrir conta[m
+ [m
+   @pf[m
+[31m-  Scenario Outline: Abertura de conta pessoa fisica[m
+[32m+[m[32m  Scenario Outline: Abertura de conta pessoa Fisica[m
+ [m
+  And selecionar o botao abrir conta para voce [m
+  #When preencher o formulario de abertura de conta[m
